@@ -13,7 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Resort Drink Flash Cards",
+  title: "Drink Flashcards",
+  manifest: "/manifest.json",
+  themeColor: "#111827",
   description: "Drink Flash Cards",
 };
 
